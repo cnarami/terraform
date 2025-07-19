@@ -5,8 +5,7 @@ The goal was to learn how cloud resources can be deployed and configured fully  
 
 
 # 📚 Table of Contents 
-[Project Overview] (#project-overview)
-
+- [Project Overview](#project-overview)
 
 # 🛠️ Tools & Services Used
 | 🗂️ Category            | 🧰 Tools |
