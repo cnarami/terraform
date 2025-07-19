@@ -1,5 +1,12 @@
-# 🚀 Cloud Infrastructure Automation on AWS Using Terraform and Docker
+# 🚀 Cloud Infrastructure Automation on AWS Using Terraform and Docker.
 The goal was to learn how cloud resources can be deployed and configured fully  with real world tools
+
+# 📁 Directory Structure
+
+
+# 📚 Table of Contents 
+[Project Overview] (#project-overview)
+
 
 # 🛠️ Tools & Services Used
 | 🗂️ Category            | 🧰 Tools |
