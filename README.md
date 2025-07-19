@@ -5,7 +5,15 @@ The goal was to learn how cloud resources can be deployed and configured fully  
 
 
 # 📚 Table of Contents 
-- [Project Overview](#project-overview)
+- [Project Title](#project-title)
+- [Directory Structure](#directory-structure)
+- [Table of Contents](#table-of-contents)
+- [Project Overview](#project-overviw)
+- [Tools & Services Used](#tools-&-services-used)
+- [Prerequisites](#prerequisites)
+- [Step-by-Steps Instructions](#step-by-step-instructions)
+- [Screenshots](screenshot)
+- 
 
 # 🛠️ Tools & Services Used
 | 🗂️ Category            | 🧰 Tools |
