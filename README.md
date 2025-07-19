@@ -1,10 +1,10 @@
 # 🚀 Cloud Infrastructure Automation on AWS Using Terraform and Docker.
 The goal was to learn how cloud resources can be deployed and configured fully  with real world tools
 
-# 📁 Directory Structure
+## 📁 Directory Structure
 
 
-# 📚 Table of Contents 
+## 📚 Table of Contents 
 - [Project Title](#project-title)
 - [Directory Structure](#directory-structure)
 - [Table of Contents](#table-of-contents)
@@ -14,10 +14,10 @@ The goal was to learn how cloud resources can be deployed and configured fully  
 - [Step-by-Steps Instructions](#step-by-step-instructions)
 - [Screenshots](screenshot)
 
-# 📊 Project Overview 
+## 📊 Project Overview 
 
 
-# 🛠️ Tools & Services Used
+## 🛠️ Tools & Services Used
 | 🗂️ Category            | 🧰 Tools |
 |------------------------|---------|
 | 🗃️ Version Control      | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
