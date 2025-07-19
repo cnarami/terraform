@@ -13,7 +13,9 @@ The goal was to learn how cloud resources can be deployed and configured fully  
 - [Prerequisites](#prerequisites)
 - [Step-by-Steps Instructions](#step-by-step-instructions)
 - [Screenshots](screenshot)
-- 
+
+# 📊 Project Overview 
+
 
 # 🛠️ Tools & Services Used
 | 🗂️ Category            | 🧰 Tools |
