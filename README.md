@@ -36,3 +36,10 @@ This project demonstrates the automation of EC2 instance provisioning on AWS usi
 
 
 ## 💫 Prerequisites
+
+1. AWS Account
+2. Terraform
+3. Docker
+4. VSCode
+5. Basic understanding of AWS services
+6. Basic understanding of Terraform
