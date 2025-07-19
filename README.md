@@ -33,3 +33,6 @@ This project demonstrates the automation of EC2 instance provisioning on AWS usi
 | 📜 Provisioning Script | 📝 user_data (Bash Script) |
 | 📦 Containerization    | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | 🌍 Web Server          | ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
+
+
+## 💫 Prerequisites
