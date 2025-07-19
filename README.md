@@ -16,8 +16,9 @@ The goal was to learn how cloud resources can be deployed and configured fully  
 
 ## 📊 Project Overview 
 This project demonstrates the automation of EC2 instance provisioning on AWS using Terraform, making use of infrastructure components and Docker integration for efficient deployment.
-Infrastructure components used: Subnet, Internet Gateway, Route Table, Security Group, Key Pair, and EC2 instance
-Docker integration: I made use of Docker integration in user data for EC2 instance configuration.
+
+*Infrastructure components used: Subnet, Internet Gateway, Route Table, Security Group, Key Pair, and EC2 instance
+*Docker integration: I made use of Docker integration in user data for EC2 instance configuration.
 
 
 ## 🛠️ Tools & Services Used
